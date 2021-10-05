@@ -1,2 +1,4 @@
 # vue-vuex-store
-Compare Composition API Store with Vuex Store
+
+### Descripción
+Hacer una comparacion entre Composition API Store y Vuex Store en una aplicación de Vue3.

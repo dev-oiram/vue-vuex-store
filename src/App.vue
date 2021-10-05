@@ -1,10 +1,14 @@
 <template>
-  <h3>Store</h3>
+  <h1>Store</h1>
+  <hr>
+  <componentone></componentone>
 </template>
 
 <script>
+import componentone from '@/components/componentone.vue'
 export default {
   name: 'App',
+  components: { componentone }
 }
 </script>
 

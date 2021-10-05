@@ -1,0 +1,8 @@
+
+store-review
+
+Composition API Store:
+https://vuejsdevelopers.com/2020/10/05/composition-api-vuex/
+
+Vuex:
+https://next.vuex.vuejs.org/guide/composition-api.html

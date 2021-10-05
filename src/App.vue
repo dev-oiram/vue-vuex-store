@@ -2,13 +2,15 @@
   <h1>Store</h1>
   <hr>
   <componentone></componentone>
+  <componenttwo></componenttwo>
 </template>
 
 <script>
 import componentone from '@/components/componentone.vue'
+import componenttwo from '@/components/componenttwo.vue'
 export default {
   name: 'App',
-  components: { componentone }
+  components: { componentone,componenttwo }
 }
 </script>
 

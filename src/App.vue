@@ -2,6 +2,7 @@
   <h1>Store</h1>
   <hr>
   <componentone></componentone>
+  <br>
   <componenttwo></componenttwo>
 </template>
 

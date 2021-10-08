@@ -1,7 +1,13 @@
 <template>
     <div>
-        <h3>Componente - DOS</h3>
-        <p>Resultado: {{ store.state.contador }}</p>
+        <div class="card">
+            <div class="card-header bg-primary bg-opacity-70 text-white">
+                Componente - DOS
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Resultado: {{ store.state.contador }}</h5>
+            </div>
+        </div>
     </div>
 </template>
 
